@@ -101,6 +101,10 @@ Internet retail, also known as e-commerce, is a significant sector within the in
 
 ## Walkthrough Video
 
+https://github.com/Philip-Tom/e-commerce-back-end-challenge13/assets/147503829/1a31df72-a844-459e-bcce-290467bc83d0
+
+
+
 ## Contributing
 
 Contributions are welcome. Feel free to open an issue or submit a pull request.
